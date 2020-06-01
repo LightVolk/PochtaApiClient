@@ -1,2 +1,2 @@
 # PochtaApiClient
-Api for Russian post service
+Api for Russian post service (https://tracking.pochta.ru/specification)
